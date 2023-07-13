@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_khade_ak" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_khade_ak?logo=twitter&style=for-the-badge" alt="aditya_khade_ak" /></a> </p>
 
-- 🔭 I’m currently working on **Food Heaven (Website For Mess)**
+- 🔭 I’m currently working on some Projects
 
 - 🌱 I’m currently learning **DSA & Full Stack Development**
 
@@ -17,7 +17,6 @@
 
 - 😍😎 Checkout My Portfolio Website **https://adityakhadeak.github.io/**
  
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
