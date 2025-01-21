@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on some Projects
 
-- 🌱 I’m currently learning **DSA & Full Stack Development**
+- 🌱 I’m currently learning **DSA & Full Stack App Development**
 
 - 📫 How to reach me **khadeaditya1@gmail.com**
 
-- 😍😎 Checkout My Portfolio Website **https://adityakhadeak.github.io/**
+- 😍😎 Checkout My Portfolio Website **https://www.adityakhadeak.engineer/**
  
 
 <h3 align="left">Connect with me:</h3>
